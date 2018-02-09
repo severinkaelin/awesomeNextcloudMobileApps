@@ -1,8 +1,23 @@
 # Awesome Mobile Apps that Interface with Nextcloud [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Motivation
+## Meta
 
-A lot of iOS and Android applications sync to cloud services like Dropbox, iCloud, or the Google Services. Here we collect a curated list of awesome iOS and Android apps able to interface with Nextcloud (or Owncloud) as backend. Feel free to contribute.
+### Motivation
+
+A lot of iOS and Android applications sync to cloud services like Dropbox, iCloud, or the Google Services. Here we collect a curated list of awesome iOS and Android apps able to interface with Nextcloud (or Owncloud) as backend.
+
+Feel free to contribute.
+
+### How-To
+
+* Fork the repo
+* Apply your changes
+* Send me a push request
+
+### Misc.
+
+* As I cannot verify Android apps as I have no Android mobile, I need to trust your additions. A second person maintaining this list that owns an Android is welcome to join.
+* Links should point to the web sites of the software product or into the _official_ App stores. Keep in mind not all Android phones have alternative markets installed.
 
 ## iOS
 
