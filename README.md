@@ -29,9 +29,10 @@ Feel free to contribute.
 |[Enpass](https://www.enpass.io) | Password sync | Trial / 9,99$ | WebDAV |
 |iOS Calendar | Access/Sync NC calendar via CalDAV | Part of iOS | CalDAV |
 |iOS Contacts | Access/Sync NC contacts via CardDAV | Part of iOS | CardDAV |
-|[Document 5](https://readdle.com/documents) | File transfer/ Dropbox replacement | Free | WebDAV |
+|[Documents 5](https://readdle.com/documents) | File transfer/ Dropbox replacement | Free | WebDAV |
 |[Foxit PDF](https://www.foxitsoftware.com/mobile-pdf-reader/) |View/ Edit/ Collaborate PDF |Freemium | WebDAV |
 |[OnlyOffice Mobile App](https://www.onlyoffice.com/apps.aspx) |Syncs to Server | Free | Weblink |
+|[Joplin](https://joplin.cozic.net) | Note taking and to-do app | Free | WebDAV |
 
 ## Android
 
@@ -52,7 +53,7 @@ Feel free to contribute.
 |[Scanbot](https://scanbot.io/de/index.html) | Camera scanner, can share scanned PDFs with NC app | Freemium | WebDAV |
 |[Foxit PDF](https://www.foxitsoftware.com/mobile-pdf-reader/) |View/ Edit/ Collaborate PDF |Freemium | WebDAV |
 |OnlyOffice Mobile App](https://www.onlyoffice.com/apps.aspx) |Syncs to Server | Free | Weblink |
-
+|[Joplin](https://joplin.cozic.net) | Note taking and to-do app | Free | WebDAV |
 
 
 
