@@ -52,7 +52,7 @@ Feel free to contribute.
 |[Photo Sync](https://www.photosync-app.com) | Transfer/sync to/with NC | Freemium | WebDAV |
 |[Scanbot](https://scanbot.io/de/index.html) | Camera scanner, can share scanned PDFs with NC app | Freemium | WebDAV |
 |[Foxit PDF](https://www.foxitsoftware.com/mobile-pdf-reader/) |View/ Edit/ Collaborate PDF |Freemium | WebDAV |
-|OnlyOffice Mobile App](https://www.onlyoffice.com/apps.aspx) |Syncs to Server | Free | Weblink |
+|[OnlyOffice Mobile App](https://www.onlyoffice.com/apps.aspx) |Syncs to Server | Free | Weblink |
 |[Joplin](https://joplin.cozic.net) | Note taking and to-do app | Free | WebDAV |
 
 
