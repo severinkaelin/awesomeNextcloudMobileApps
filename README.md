@@ -44,7 +44,7 @@ Feel free to contribute.
 |[Nextcloud Bookmarks](https://play.google.com/store/apps/details?id=org.schabi.nxbookmarks) | Bookmark App | 0,79€ | Requires the [Bookmark App](https://apps.nextcloud.com/apps/bookmarks) |
 |[Nextcloud News Reader](https://play.google.com/store/apps/details?id=de.luhmer.owncloudnewsreader) | RSS Feed Reader | 2,39€ | Requires the [News App](https://apps.nextcloud.com/apps/news) |
 |[Nextcloud SMS](https://play.google.com/store/apps/details?id=fr.unix_experience.owncloud_sms) | SMS Sync to Nextcloud | 1,59€  | Requires the [Phone Sync App](https://apps.nextcloud.com/apps/ocsms) |
-|[DAVdroid](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) | Calendar/Tasks/Contacts Sync | 3,99€ ([Free in F-Droid store](https://f-droid.org/de/packages/at.bitfire.davdroid/) | CardDAV/CalDAV |
+|[DAVdroid](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) | Calendar/Tasks/Contacts Sync | 3,99€ ([Free in F-Droid store](https://f-droid.org/de/packages/at.bitfire.davdroid/)) | CardDAV/CalDAV |
 |[CardDAV Sync](https://play.google.com/store/apps/details?id=org.dmfs.carddav.sync) | Contacts Sync  | Free/1,90€ | CardDAV |
 |[CalDAV Sync](https://play.google.com/store/apps/details?id=org.dmfs.caldav.lib) | Calendar/Task Sync  | Free/2,59€ | CalDAV |
 |[Open Tasks](https://play.google.com/store/apps/details?id=org.dmfs.tasks) | Task App Open Source | -- | -- |
