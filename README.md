@@ -33,6 +33,7 @@ Feel free to contribute.
 |[Foxit PDF](https://www.foxitsoftware.com/mobile-pdf-reader/) |View/ Edit/ Collaborate PDF |Freemium | WebDAV |
 |[OnlyOffice Mobile App](https://www.onlyoffice.com/apps.aspx) |Syncs to Server | Free | Weblink |
 |[Joplin](https://joplin.cozic.net) | Note taking and to-do app | Free | WebDAV |
+|[Nextcloud Talk](https://itunes.apple.com/de/app/nextcloud-talk/id1296825574?mt=8) | One-on-one/group audio/video calls | Free | [Required app](https://apps.nextcloud.com/apps/spreed) |
 
 ## Android
 
@@ -55,6 +56,7 @@ Feel free to contribute.
 |[OnlyOffice Mobile App](https://www.onlyoffice.com/apps.aspx) |Syncs to Server | Free | Weblink |
 |[Joplin](https://joplin.cozic.net) | Note taking and to-do app | Free | WebDAV |
 |[Keepass2Android](https://github.com/PhilippC/keepass2android) | Keepass formatted password files on Android | Free | WebDAV |
+|[Nextcloud Talk](https://play.google.com/store/apps/details?id=com.nextcloud.talk2&hl=en) | One-on-one/group audio/video calls | Free | [Required app](https://apps.nextcloud.com/apps/spreed) |
 
 
 
