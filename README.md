@@ -24,7 +24,7 @@ Feel free to contribute.
 | Name | Function | Price| Note |
 | -- | -- | -- | -- |
 |[Nextcloud Client](https://nextcloud.com/install/#install-clients) | General purpose file access / sync tool | Free | WebDAV |
-|[Photo Sync](https://www.photosync-app.com) | Transfer/sync pictures to/with NC | 3,49€ | WebDAV |
+|[Photo Sync](https://www.photosync-app.com) | Transfer/sync pictures to/with NC | 4,49€ | WebDAV |
 |[Scanbot](https://scanbot.io/de/index.html) | Camera scanner, shares generated PDFs with NC app (free version) or automatic upload to a WebDAV server | Free / 7,99$ | WebDAV |
 |[Enpass](https://www.enpass.io) | Password sync | Trial / 9,99$ | WebDAV |
 |iOS Calendar | Access/Sync NC calendar via CalDAV | Part of iOS | CalDAV |
