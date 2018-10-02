@@ -46,7 +46,7 @@ Feel free to contribute.
 |[Nextcloud SMS](https://play.google.com/store/apps/details?id=fr.unix_experience.owncloud_sms) | SMS Sync to Nextcloud | 1,39€  | Requires the [Phone Sync App](https://apps.nextcloud.com/apps/ocsms) |
 |[DAVdroid](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) | Calendar/Tasks/Contacts Sync | 3,99€ ([Free in F-Droid store](https://f-droid.org/de/packages/at.bitfire.davdroid/)) | CardDAV/CalDAV |
 |[CardDAV Sync](https://play.google.com/store/apps/details?id=org.dmfs.carddav.sync) | Contacts Sync  | Free/1,90€ | CardDAV |
-|[CalDAV Sync](https://play.google.com/store/apps/details?id=org.dmfs.caldav.lib) | Calendar/Task Sync  | Free/2,59€ | CalDAV |
+|[CalDAV Sync](https://play.google.com/store/apps/details?id=org.dmfs.caldav.lib) | Calendar/Task Sync  | Free/2,55€ | CalDAV |
 |[Open Tasks](https://play.google.com/store/apps/details?id=org.dmfs.tasks) | Task App Open Source | -- | -- |
 |[Enpass](https://www.enpass.io) | Password sync | Trial, 9,99$ | WebDAV |
 |[Foldersync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) | Sync different Folders | Free/3,19€ | WebDAV |
