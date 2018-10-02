@@ -12,7 +12,7 @@ Feel free to contribute.
 
 * Fork the repo
 * Apply your changes
-* Send me a push request
+* Send me a pull request
 
 ### Misc.
 
