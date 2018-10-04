@@ -53,7 +53,7 @@ Feel free to contribute.
 |[Photo Sync](https://www.photosync-app.com) | Transfer/sync to/with NC | Freemium | WebDAV |
 |[Scanbot](https://scanbot.io/de/index.html) | Camera scanner, can share scanned PDFs with NC app | Freemium | WebDAV |
 |[Foxit PDF](https://www.foxitsoftware.com/mobile-pdf-reader/) |View/ Edit/ Collaborate PDF |Freemium | WebDAV |
-|[OnlyOffice Mobile App](https://www.onlyoffice.com/apps.aspx) |Syncs to Server | Free | Weblink |
+|[OnlyOffice Mobile App](https://www.onlyoffice.com/apps.aspx) |Syncs to Server | Free | Weblink<br>Requires an Onlyoffice Cloud account<br> and connects to the app publisher's own Document Server |
 |[Joplin](https://joplin.cozic.net) | Note taking and to-do app | Free | WebDAV |
 |[Keepass2Android](https://github.com/PhilippC/keepass2android) | Keepass formatted password files on Android | Free | WebDAV |
 |[Nextcloud Talk](https://play.google.com/store/apps/details?id=com.nextcloud.talk2&hl=en) | One-on-one/group audio/video calls | Free | [Requires talk app](https://apps.nextcloud.com/apps/spreed) |
