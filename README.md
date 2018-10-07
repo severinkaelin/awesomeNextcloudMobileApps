@@ -34,6 +34,7 @@ Feel free to contribute.
 |[OnlyOffice Mobile App](https://www.onlyoffice.com/apps.aspx) |Syncs to Server | Free | Weblink |
 |[Joplin](https://joplin.cozic.net) | Note taking and to-do app | Free | WebDAV |
 |[Nextcloud Talk](https://itunes.apple.com/de/app/nextcloud-talk/id1296825574?mt=8) | One-on-one/group audio/video calls | Free | [Requires talk app](https://apps.nextcloud.com/apps/spreed) |
+|[PDF Expert by Readdle](https://pdfexpert.com/ios) | PDF Editor (highlight, sign and fill PDFs)  | 10.99€ | WebDAV |
 
 ## Android
 
